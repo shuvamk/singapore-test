@@ -8,7 +8,7 @@ interface ActivityCardProps {
   dayNumber: number;
 }
 
-export function ActivityCard({ activity, index, dayNumber }: ActivityCardProps) {
+export function ActivityCard({ activity, index }: ActivityCardProps) {
   const icons = {
     transport: <Train className="w-5 h-5 text-blue-600" />,
     cost: <DollarSign className="w-5 h-5 text-green-600" />,
