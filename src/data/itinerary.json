@@ -1,0 +1,455 @@
+{
+  "itinerary": [
+    {
+      "day": 1,
+      "date": "2024-11-14",
+      "activities": [
+        {
+          "time": "5:00 AM",
+          "activity": "Arrival at Changi Airport",
+          "details": "Immigration and baggage claim"
+        },
+        {
+          "time": "6:30 AM",
+          "activity": "Travel to Hotel",
+          "transport": "MRT from Changi Airport (CG2) to Bugis (EW12)",
+          "route": "East-West Line to Tanah Merah, transfer towards Tuas Link",
+          "duration": "~40 minutes",
+          "cost": "SGD 2.00"
+        },
+        {
+          "time": "8:00 AM",
+          "activity": "Breakfast at Maxwell Food Centre",
+          "transport": "MRT from Bugis to Chinatown",
+          "food": ["Kaya Toast", "Kopi", "Hainanese Chicken Rice"],
+          "cost": "SGD 5 - SGD 10"
+        },
+        {
+          "time": "9:30 AM",
+          "activity": "Explore Chinatown",
+          "places": [
+            "Sri Mariamman Temple",
+            "Buddha Tooth Relic Temple"
+          ],
+          "admission": "Free"
+        },
+        {
+          "time": "11:00 AM",
+          "activity": "Visit Gardens by the Bay",
+          "transport": "MRT to Bayfront",
+          "admission": "SGD 28",
+          "highlights": ["Flower Dome", "Cloud Forest"]
+        },
+        {
+          "time": "1:30 PM",
+          "activity": "Lunch at Satay by the Bay",
+          "food": ["Satay", "Laksa"],
+          "cost": "SGD 10 - SGD 15"
+        },
+        {
+          "time": "2:30 PM",
+          "activity": "Marina Bay Sands SkyPark",
+          "admission": "SGD 26",
+          "experience": "Observation Deck with panoramic city views"
+        },
+        {
+          "time": "3:30 PM",
+          "activity": "Explore Marina Bay Area",
+          "optional": "ArtScience Museum",
+          "admission": "Varies (SGD 19 - SGD 30)"
+        },
+        {
+          "time": "5:00 PM",
+          "activity": "Merlion Park",
+          "admission": "Free",
+          "experience": "Iconic Merlion statue photo opportunity"
+        },
+        {
+          "time": "6:00 PM",
+          "activity": "Dinner at Lau Pa Sat",
+          "food": ["Chili Crab", "Hokkien Mee"],
+          "cost": "SGD 15 - SGD 25"
+        },
+        {
+          "time": "7:30 PM",
+          "activity": "Garden Rhapsody Light Show",
+          "location": "Gardens by the Bay",
+          "admission": "Free",
+          "show_times": ["7:45 PM", "8:45 PM"]
+        },
+        {
+          "time": "9:00 PM",
+          "activity": "Return to Hotel",
+          "transport": "MRT to Bugis",
+          "cost": "SGD 1.00"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "date": "2024-11-15",
+      "activities": [
+        {
+          "time": "8:00 AM",
+          "activity": "Breakfast at Hotel"
+        },
+        {
+          "time": "9:00 AM",
+          "activity": "Visit Singapore Botanic Gardens",
+          "transport": "MRT to Botanic Gardens (DT9)",
+          "admission": "Free",
+          "highlight": "National Orchid Garden (SGD 5 admission)"
+        },
+        {
+          "time": "12:00 PM",
+          "activity": "Lunch at Adam Road Food Centre",
+          "food": ["Nasi Lemak", "Mee Goreng"],
+          "cost": "SGD 5 - SGD 10"
+        },
+        {
+          "time": "1:30 PM",
+          "activity": "Shopping at Orchard Road",
+          "transport": "MRT to Orchard",
+          "places": ["ION Orchard", "Ngee Ann City"]
+        },
+        {
+          "time": "4:00 PM",
+          "activity": "Explore Little India",
+          "transport": "MRT to Little India",
+          "places": ["Sri Veeramakaliamman Temple"],
+          "admission": "Free"
+        },
+        {
+          "time": "6:00 PM",
+          "activity": "Dinner in Little India",
+          "food": ["Roti Prata", "Biryani"],
+          "cost": "SGD 10 - SGD 15"
+        },
+        {
+          "time": "7:30 PM",
+          "activity": "Shopping at Mustafa Centre",
+          "experience": "24-hour shopping for souvenirs and electronics"
+        },
+        {
+          "time": "9:00 PM",
+          "activity": "Return to Hotel"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "date": "2024-11-16",
+      "activities": [
+        {
+          "time": "8:00 AM",
+          "activity": "Breakfast at Hotel"
+        },
+        {
+          "time": "9:00 AM",
+          "activity": "Travel to Sentosa Island",
+          "transport": "MRT to HarbourFront, Sentosa Express Monorail",
+          "cost": "MRT: SGD 1.50, Monorail: SGD 4.00"
+        },
+        {
+          "time": "10:00 AM",
+          "activity": "Universal Studios Singapore",
+          "admission": "SGD 79",
+          "opening_hours": "10:00 AM - 7:00 PM"
+        },
+        {
+          "time": "1:00 PM",
+          "activity": "Lunch inside Universal Studios",
+          "options": "Various restaurants and food stalls",
+          "cost": "SGD 15 - SGD 20"
+        },
+        {
+          "time": "6:00 PM",
+          "activity": "Explore Sentosa Beaches",
+          "places": ["Siloso Beach", "Palawan Beach"],
+          "activities": ["Relaxing", "Beach games"]
+        },
+        {
+          "time": "7:30 PM",
+          "activity": "Wings of Time Show",
+          "location": "Siloso Beach",
+          "admission": "SGD 18",
+          "show_times": ["7:40 PM", "8:40 PM"]
+        },
+        {
+          "time": "9:00 PM",
+          "activity": "Return to Hotel",
+          "transport": "Sentosa Express and MRT to Bugis",
+          "cost": "MRT: SGD 1.50"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "date": "2024-11-17",
+      "activities": [
+        {
+          "time": "8:00 AM",
+          "activity": "Breakfast at Hotel"
+        },
+        {
+          "time": "9:00 AM",
+          "activity": "Visit Singapore Zoo",
+          "transport": "MRT to Khatib, Mandai Khatib Shuttle",
+          "cost": "MRT: SGD 1.80, Shuttle: SGD 1.00",
+          "admission": "SGD 39",
+          "opening_hours": "8:30 AM - 6:00 PM"
+        },
+        {
+          "time": "1:00 PM",
+          "activity": "Lunch at Ah Meng Restaurant",
+          "cost": "SGD 10 - SGD 15"
+        },
+        {
+          "time": "2:00 PM",
+          "activity": "River Wonders",
+          "admission": "SGD 35",
+          "experience": "Freshwater aquarium and riverboat ride"
+        },
+        {
+          "time": "4:00 PM",
+          "activity": "Early Dinner at Singapore Zoo",
+          "options": "Various eateries",
+          "cost": "SGD 10 - SGD 15"
+        },
+        {
+          "time": "7:15 PM",
+          "activity": "Night Safari",
+          "admission": "SGD 49",
+          "opening_hours": "7:15 PM - 12:00 AM",
+          "experience": "Guided tram ride to see nocturnal animals"
+        },
+        {
+          "time": "10:00 PM",
+          "activity": "Return to Hotel",
+          "transport": "Shuttle and MRT to Bugis",
+          "cost": "MRT: SGD 1.80"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "date": "2024-11-18",
+      "activities": [
+        {
+          "time": "8:00 AM",
+          "activity": "Breakfast at Hotel"
+        },
+        {
+          "time": "9:00 AM",
+          "activity": "National Museum of Singapore",
+          "transport": "MRT to Bras Basah",
+          "admission": "SGD 15",
+          "opening_hours": "10:00 AM - 7:00 PM"
+        },
+        {
+          "time": "12:00 PM",
+          "activity": "Lunch at Food Republic (Suntec City)",
+          "food": "Variety of local dishes",
+          "cost": "SGD 10 - SGD 15"
+        },
+        {
+          "time": "1:30 PM",
+          "activity": "Visit Kampong Glam",
+          "transport": "Walk or MRT to Bugis",
+          "places": ["Sultan Mosque", "Haji Lane"],
+          "admission": "Free"
+        },
+        {
+          "time": "4:00 PM",
+          "activity": "ArtScience Museum",
+          "transport": "MRT to Bayfront",
+          "admission": "SGD 19",
+          "opening_hours": "10:00 AM - 7:00 PM"
+        },
+        {
+          "time": "6:00 PM",
+          "activity": "Dinner at Clarke Quay",
+          "food": ["Seafood", "Local delicacies"],
+          "cost": "SGD 20 - SGD 30"
+        },
+        {
+          "time": "7:30 PM",
+          "activity": "Singapore River Cruise",
+          "boarding_point": "Clarke Quay Jetty",
+          "admission": "SGD 25",
+          "experience": "Scenic cruise along the Singapore River"
+        },
+        {
+          "time": "9:00 PM",
+          "activity": "Explore Clarke Quay Nightlife",
+          "options": ["Bars", "Live music", "Entertainment"]
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "date": "2024-11-19",
+      "activities": [
+        {
+          "time": "8:00 AM",
+          "activity": "Breakfast at Hotel"
+        },
+        {
+          "time": "9:00 AM",
+          "activity": "Visit Pulau Ubin",
+          "transport": [
+            "MRT to Tanah Merah (EW4)",
+            "Bus 2 to Changi Village",
+            "Bumboat to Pulau Ubin"
+          ],
+          "cost": "MRT: SGD 1.50, Bus: SGD 1.50, Bumboat: SGD 4.00 (one-way)"
+        },
+        {
+          "time": "10:30 AM",
+          "activity": "Arrive at Pulau Ubin",
+          "activities": [
+            {
+              "activity": "Bicycle Rental",
+              "cost": "SGD 10 - SGD 20"
+            },
+            {
+              "activity": "Visit Chek Jawa Wetlands",
+              "experience": "Boardwalks and marine wildlife"
+            }
+          ]
+        },
+        {
+          "time": "1:00 PM",
+          "activity": "Lunch at Local Eateries",
+          "cuisine": "Seafood and local dishes",
+          "cost": "SGD 10 - SGD 20"
+        },
+        {
+          "time": "3:00 PM",
+          "activity": "Return to Mainland"
+        },
+        {
+          "time": "4:00 PM",
+          "activity": "Visit East Coast Park",
+          "transport": "Taxi or Bus from Changi Village",
+          "activities": ["Relaxing by the beach", "Cycling", "Skating"]
+        },
+        {
+          "time": "6:00 PM",
+          "activity": "Dinner at East Coast Lagoon Food Village",
+          "food": ["Satay", "BBQ Seafood"],
+          "cost": "SGD 15 - SGD 25"
+        },
+        {
+          "time": "8:00 PM",
+          "activity": "Return to Hotel",
+          "transport": "Bus or Taxi",
+          "cost": "Bus: SGD 1.50, Taxi: ~SGD 15"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "date": "2024-11-20",
+      "activities": [
+        {
+          "time": "8:00 AM",
+          "activity": "Breakfast at Hotel"
+        },
+        {
+          "time": "9:00 AM",
+          "activity": "Visit Science Centre Singapore",
+          "transport": "MRT to Jurong East",
+          "admission": "SGD 12",
+          "opening_hours": "10:00 AM - 6:00 PM"
+        },
+        {
+          "time": "12:00 PM",
+          "activity": "Lunch at JEM or Westgate Mall",
+          "options": "Various cuisines",
+          "cost": "SGD 10 - SGD 20"
+        },
+        {
+          "time": "1:00 PM",
+          "activity": "Singapore Flyer",
+          "transport": "MRT to Promenade",
+          "admission": "SGD 33",
+          "opening_hours": "2:00 PM - 10:00 PM"
+        },
+        {
+          "time": "2:30 PM",
+          "activity": "Walk the Helix Bridge",
+          "experience": "Unique architecture and photos"
+        },
+        {
+          "time": "3:00 PM",
+          "activity": "National Gallery Singapore",
+          "admission": "SGD 20",
+          "opening_hours": "10:00 AM - 7:00 PM"
+        },
+        {
+          "time": "6:00 PM",
+          "activity": "Farewell Dinner at Liao Fan Hawker Chan",
+          "food": ["Soya Sauce Chicken Rice"],
+          "address": "78 Smith St, Chinatown",
+          "cost": "SGD 5 - SGD 10"
+        },
+        {
+          "time": "8:00 PM",
+          "activity": "Return to Hotel and Pack"
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "date": "2024-11-21",
+      "activities": [
+        {
+          "time": "5:00 AM",
+          "activity": "Check Out from Hotel"
+        },
+        {
+          "time": "5:15 AM",
+          "activity": "Travel to Changi Airport",
+          "transport": "Taxi or Grab",
+          "duration": "~20 minutes",
+          "cost": "SGD 20 - SGD 25"
+        },
+        {
+          "time": "6:00 AM",
+          "activity": "Arrive at Changi Airport",
+          "note": "Flight departs at 8:00 AM"
+        }
+      ]
+    }
+  ],
+  "recommendations": {
+    "foods_to_try": [
+      "Kaya Toast & Kopi",
+      "Hainanese Chicken Rice",
+      "Laksa",
+      "Satay",
+      "Chili Crab",
+      "Hokkien Mee",
+      "Nasi Lemak",
+      "Roti Prata",
+      "Biryani",
+      "Mee Goreng",
+      "Soya Sauce Chicken Rice"
+    ],
+    "transportation": {
+      "ez_link_card": {
+        "purchase": "SGD 12",
+        "includes": "SGD 7 stored value",
+        "usage": "For MRT and Bus rides"
+      }
+    },
+    "notes": [
+      "Carry water and wear light clothing due to hot and humid weather.",
+      "Dress modestly when visiting religious sites.",
+      "Free Wi-Fi is available in most public areas and attractions.",
+      "Purchase attraction tickets online in advance to save time.",
+      "Use the Grab app for convenient taxi bookings."
+    ]
+  }
+}
